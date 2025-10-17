@@ -9,7 +9,7 @@ return array(
 		'title' => 'Copyright Date Block',
 		'category' => 'widgets',
 		'icon' => 'smiley',
-		'description' => 'Example block scaffolded with Create Block tool.',
+		'description' => 'Testeo del block cambio la descripcion.',
 		'example' => array(
 			
 		),

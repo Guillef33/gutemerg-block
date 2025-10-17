@@ -4,5 +4,5 @@
  */
 ?>
 <p <?php echo get_block_wrapper_attributes(); ?>>
-	<?php esc_html_e( 'Copyright Date Block – me gusta nestor ' ); ?>
+	<?php esc_html_e( 'Copyright Date Block – me gusta!', 'copyright-date-block' ); ?>
 </p>
